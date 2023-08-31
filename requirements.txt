@@ -1,0 +1,13 @@
+PIL>=7.0.0
+cv2
+gc
+keras
+matplotlib>=3.0.0
+numpy>=1.18.0
+openslide
+os
+random
+random,
+skimage
+sklearn
+tensorflow>=2.0.0

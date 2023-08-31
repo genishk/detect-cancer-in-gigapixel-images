@@ -3,6 +3,9 @@
 ## Introduction
 This project is focused on developing a machine learning model to detect cancer in gigapixel pathology images. The notebook walks through the steps of data preparation, model training, and evaluation.
 
+## Presentation Link
+https://www.youtube.com/watch?v=YwedAXFQ9o8
+
 ## Dependencies
 This project uses the following main libraries:
 - Python 3.x

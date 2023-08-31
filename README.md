@@ -34,10 +34,10 @@ The notebook contains code for downloading and preparing the data. It leverages 
 The project uses a deep learning model for image classification. Specifically, it employs the InceptionV3 architecture with additional custom layers.
 
 ## Usage
-1. Clone the repository: `git clone YOUR_REPOSITORY_LINK`
+1. Clone the repository: `git clone https://github.com/genishk/detect-cancer-in-gigapixel-images`
 2. Install the dependencies: `pip install -r requirements.txt`
 3. Download the data by running the relevant code cells in the notebook.
-4. Execute the notebook: `jupyter notebook`
+4. Execute the notebook: `jupyter notebook Final_Project_sk4985.ipynb`
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
